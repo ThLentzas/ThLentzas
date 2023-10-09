@@ -1,4 +1,4 @@
-<h1 align="left">Hi there👋</h1>
+<h2 align="left">Hi there👋</h2>
 
 I'm Thanos Lentzas, a Software Engineer with a Bachelor's degree in Computer Science. I like building server side applications.
 
