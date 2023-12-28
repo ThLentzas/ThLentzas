@@ -1,6 +1,6 @@
 <h2 align="left">Hi there👋</h2>
 
-I'm Thanos Lentzas, a Software Engineer with a Bachelor's degree in Computer Science. I like building server side applications.
+I'm a Software Engineer with a Bachelor's degree in Computer Science. I like building server side applications.
 
 
 <h2 align="left">Languages and Tools:</h2>
